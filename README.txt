@@ -1,4 +1,6 @@
 
+THIS INSTALLATION OF DRUPAL HAS BEEN MODIFIED.  
+
 CONTENTS OF THIS FILE
 ---------------------
  * Custom changes to this Drupal installation
