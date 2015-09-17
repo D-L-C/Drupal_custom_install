@@ -1,12 +1,44 @@
 
 CONTENTS OF THIS FILE
 ---------------------
-
+ * Custom changes to this Drupal installation
  * About Drupal
  * Configuration and features
  * Installation profiles
  * Appearance
  * Developing for Drupal
+ 
+ Custom changes to this Drupal installation
+ ---------------------------------------
+ This installation of Drupal is version 7.39
+ 
+ Omega theme has been added to the preinstalled theme list
+ 
+ Added modules:
+ Chaos tools
+ Display Suite
+ Entity API 
+ Fences
+ Panelizer
+ Panels_everywhere
+ Panels
+ Rules
+ Veiws
+ Webforms
+ 
+ These Modules are installed when the Drupal installation is installed on the server:
+ views
+ ctools
+ panels
+ 
+ All other modules must be enabled through the admin modules overlay. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 ABOUT DRUPAL
 ------------
